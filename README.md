@@ -11,5 +11,6 @@ danielphandptp/danielphandptp is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Daniel Phan Stats](https://github-readme-stats.vercel.app/api?username=danielphandptp&count_private=true)
+![Daniel Phan Stats](https://github-readme-stats.vercel.app/api?username=danielphandptp&count_private=true) \
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielphandptp&layout=compact)](https://github.com/danielphandptp/github-readme-stats)
